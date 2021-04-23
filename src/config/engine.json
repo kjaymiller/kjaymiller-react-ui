@@ -12,13 +12,8 @@
     "tags",
     "id"
   ],
-  "sortFields": [
-    "date_modified"
-  ],
-  "facets": [
-    "category",
-    "tags"
-  ],
+  "sortFields": [],
+  "facets": [],
   "titleField": "title",
   "urlField": "slug"
 }
